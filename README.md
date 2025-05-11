@@ -14,7 +14,7 @@ This project investigates how individualistic and collectivist cultural orientat
   - Literature Review
   - Research Design
   - Review Article & Synthesis Matrix
-- `requirements.txt` — Python environment (placeholder; no code for Proposal Track)
+- `requirements.txt` — Python environment: 3.9
 
 ## Reproducibility
 This project is on the **Proposal Track** and does not include code or computational results. Final proposal PDF and LaTeX source files are included for reference.
