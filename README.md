@@ -7,9 +7,13 @@ This project investigates how individualistic and collectivist cultural orientat
 
 ## Contents
 - `proposal/` — Contains LaTeX and compiled PDF versions of:
-  - Big Picture Draft
+  - Results and Discussion
+  - Big Picture and Data and Methods
+  - Big Picture
+  - Data and Methods
   - Literature Review
-  - Final Proposal
+  - Research Design
+  - Review Article & Synthesis Matrix
 - `requirements.txt` — Python environment (placeholder; no code for Proposal Track)
 
 ## Reproducibility
